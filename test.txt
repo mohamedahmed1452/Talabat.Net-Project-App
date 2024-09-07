@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi Mohamed Ahmed
+=======
+Hello World 
+My name Is mohamed Ahmed sayed
+>>>>>>> parent of d9f61f1 (Revert "adding Hello World")
